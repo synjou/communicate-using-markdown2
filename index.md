@@ -6,3 +6,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Go to target for gifts
+- [x] Pick outfit 
+- [ ] Workout Chest/Shoulders/Triceps
